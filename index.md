@@ -2,7 +2,11 @@
 
 This is my home page! My name is Boshen Kang and I am a student at Cal State Fullerton and my major is Computer Science.
 
-## Facorite CPSC 120L Labs
+## Computer Science Peojects
+
+My GitHub page is https://github.com/BoshenK
+
+### Facorite CPSC 120L Labs
 
 * Favorite Labs and Reflection #1 : 
   My favorite lab was Lab 1 because it was my first experience writing a C++ program. After writing a few lines of code, I was excited to see the output on the console. It was also helpful to understand the structure of a C++ program and how the `#include <iostream>` directive allows a program to interact with the console. The simple task of printing "Hello Steven!" gave me confidence in my ability to write more complex programs in the future.
